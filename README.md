@@ -14,7 +14,7 @@ $ docker pull leventyildiz/docker-single-hadoop
 or build from scratch:
 
 ```sh
-$ git clone https://github.com/leventyildiz/docker-single-hadoop.git
+$ git clone https://github.com/lvntyldz/docker-single-hadoop.git
 $ cd docker-single-hadoop
 $ docker build -t leventyildiz/docker-single-hadoop .
 ```
